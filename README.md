@@ -44,9 +44,11 @@ In 2018, they released an interesting report which shows that the number of TV s
 6- With this information, a recommender system was made based on the content itself. It used cosine similarity to suggest Movies and TV shows for you to watch.
 
 **Future Work**
+
 Combining this dataset with outside information like IMDB ratings, grouping of books, and categorizing plant types could uncover many fascinating findings.
 
-By adding more data, we could create a better recommendation system that gives users even better suggestions. This improved system could be put on the internet for lots of people to use.
+By adding more data, we could create a better recommendation system that gives users even better suggestions. This improved system could be put on the internet for lots of people to use.![238554569-17bb2e8d-e49e-425b-a784-473f96a6abc6](https://github.com/MansiKaushik123/Netflix_Movies/assets/140509411/05d285bd-0210-434d-b304-be0fcc94b457)
+.
 
 
 
